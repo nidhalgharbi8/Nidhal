@@ -1,44 +1,53 @@
-<h1 align="center">Hi 👋, I'm Nidhal Gharbi</h1>
+<h1 align="center">🚀 Hi, I'm Nidhal Gharbi 👨‍💻</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=500&color=00FF00&multiline=true&center=true&width=600&height=200&lines=Welcome+to+my+GitHub+profile...;Full+Stack+Developer+%7C+Laravel+%26+Vue.js+%7C+Next.js+%7C+MongoDB;Terminal+ready...;%24+whoami;nidhal@dev:~%24+ls+-la;drwxr-xr-x+projects;+drwxr-xr-x+skills;+drwxr-xr-x+ideas;Let%27s+build+something+awesome+🚀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Laravel+%2F+Vue.js+%2F+Next.js;Passionate+about+clean+code+and+modern+apps;Always+learning+new+things+every+day!;Welcome+to+my+world+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </p>
 
 ---
 
+<img align="right" src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/assets/gif/developer.gif" width="360"/>
+
 ### 🧠 About Me
-- 🖥️ Passionné par le développement **Full Stack**
-- 🛠️ Tech Stack : `Laravel`, `Vue.js`, `Next.js`, `MongoDB`, `TailwindCSS`
-- 🔐 J’aime créer des apps modernes, performantes et sécurisées
-- 💡 Toujours curieux d’apprendre et d’expérimenter
-- 🎯 Objectif : **Créer des solutions utiles et élégantes**
+
+- 🔭 I’m currently working on **Web & Mobile SaaS apps**
+- 🌱 I’m learning **new tech every day**
+- ⚡ I like building products that solve real problems
+- 🧩 Always up for a challenge or hackathon
+- 💬 Ask me about `Laravel`, `Vue`, `Next.js`, `MongoDB`, `TailwindCSS`
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🛠️ Tech Stack & Tools
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,mongodb,tailwind,js,ts,html,css,git,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=laravel,vue,nextjs,nodejs,mongodb,tailwind,ts,js,html,css,git,vscode,figma,linux&theme=light" />
 </p>
 
 ---
 
-### 📈 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhalgharbi&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nidhalgharbi&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nidhalgharbi&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhalgharbi&theme=tokyonight&hide_border=true" width="45%" />
 </p>
 
 ---
 
-### 🤝 Let's Connect
+### 📫 Contact Me
+
 <p align="center">
-  <a href="https://linkedin.com/in/nidhalgharbi" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-nidhalgharbi-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:nidhal.gharbi@example.com"><img alt="Email" src="https://img.shields.io/badge/Email-nidhal.gharbi@example.com-red?style=flat-square&logo=gmail"></a>
+  <a href="mailto:nidhal.gharbi@example.com"><img src="https://img.shields.io/badge/email-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/nidhalgharbi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
-> 💬 “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+### ✨ Fun Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/bornmay/bornmay/Update/svg/Bottom.svg" />
+</p>
