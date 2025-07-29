@@ -28,21 +28,11 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nidhalgharbi&show_icons=true&theme=tokyonight&hide_border=true" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nidhalgharbi&theme=tokyonight&hide_border=true" width="45%" />
-</p>
 
 ---
 
-### 📫 Contact Me
 
-<p align="center">
-  <a href="mailto:nidhal.gharbi@example.com"><img src="https://img.shields.io/badge/email-%23ea4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/nidhalgharbi"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-</p>
 
 ---
 
